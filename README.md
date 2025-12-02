@@ -19,7 +19,7 @@ This is a simple Streamlit app that lets you explore relationships between diffe
 
 - Clean and simple user interface
 
-# #Requirements
+## Requirements
 
 - Python 3.x
 
